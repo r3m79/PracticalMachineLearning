@@ -1,0 +1,12 @@
+base
+dplyr
+ggplot2
+lattice
+caret
+AppliedPredictiveModeling
+rpart
+lars
+elasticnet
+survival
+gbm
+forecast
